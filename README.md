@@ -1,7 +1,7 @@
 ### ⚡ Jenkins Docker container
 
--    Preinstalled nodejs, newman, newman-reporter-htmlextra and suggested plugins. (see plugins.txt)
--    Content-Security-Policy (CSP) has been entirely disabled for this Jenkins image via
+-    Preinstalled nodejs, newman, newman-reporter-htmlextra and suggested plugins. <em>(see plugins.txt)</em>
+-    Content-Security-Policy (CSP) has been entirely disabled for this Jenkins image.
 
 ### ⚡ How-to run
 
